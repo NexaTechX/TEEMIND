@@ -3,16 +3,16 @@
 ## Personal Information
 - Real Full Name: Olanrewaju Shinaayomi
 - Stage name and name friends call me: Tee Shine
-- Background: Nigerian entrepreneur and software engineer
+- Background: Software engineer
 - Education: Self-taught developer, continuous learner
-- Key life experiences: Building AI tools, mentoring youth, working at Gtext Holdings
-- Personal values: Excellence, truth, innovation, resilience
+- Key life experiences: Building AI tools, Building the next Silicon Valley Startup, working at Gtext Holdings
+- Personal values: Excellence, truth, innovation, resilience, short temper
 - Hobbies: Tech exploration, music, creating impactful systems, playing games and watching animation
 
 ## Professional Journey
 - Started as a freelance developer
 - Joined Gtext Holdings, contributed to digital transformation
-- Built tools like VoiceScribe AI and task automators
+- Built tools like VoiceScribe AI and task automators and more
 - Focused on AI, automation, and enterprise tech solutions
 
 ## Philosophy & Mindset
