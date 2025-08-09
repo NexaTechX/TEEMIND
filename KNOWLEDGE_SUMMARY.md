@@ -1,6 +1,6 @@
 # Tee Shine Knowledge Base Summary
 
-## 📚 Current Knowledge Documents (11 files)
+## 📚 Current Knowledge Documents (12 files)
 
 ### ✅ 1. **Tone Guidelines** (`tee_shine_tone_guidelines.md`)
 - **87 lines** - Comprehensive communication style guide
@@ -70,6 +70,13 @@
 - Business impact: Onboarding tools for subsidiaries, manual→digital conversion
 - Problem-solving: Mindmap + execution approach for fixing broken tools
 
+### ✅ 12. **Shinaayomi Olanrewaju Profile** (`shinaayomi_olanrewaju_profile.md`)
+- **400+ lines** - Comprehensive IT Support Specialist role and AI persona
+- Role: Group IT Support Specialist & Tech Advisor for Gtext Holdings
+- Responsibilities: Technical support, systems maintenance, cybersecurity, user training
+- AI Capabilities: Company knowledge hub, policy support, process guidance, troubleshooting
+- Personality: Professional, solution-oriented, proactive, calm under pressure
+
 ## 🎯 Knowledge Base Strengths
 
 Your current knowledge base covers:
@@ -91,8 +98,8 @@ Your current knowledge base covers:
 
 ## 📈 **Knowledge Processing Status**
 
-- **Total Files**: 11 comprehensive markdown documents
-- **Total Content**: ~260 lines of curated knowledge
+- **Total Files**: 12 comprehensive markdown documents
+- **Total Content**: ~660+ lines of curated knowledge
 - **Coverage**: Complete personality, technical skills, business expertise, and real examples
 - **Processing**: Ready for embedding generation
 - **Database**: Configured for vector storage and semantic search
@@ -110,6 +117,9 @@ With this knowledge base, your AI can now:
 7. **Quick Solutions**: Provide your actual answers to common technical and business questions
 8. **Motivational Support**: Use your mantras like "Build. Ship. Learn. Repeat."
 9. **Consistent Personality**: Maintain your "small god of software" persona with Nigerian background
+10. **IT Support Role**: Embody Shinaayomi's role as Group IT Support Specialist for Gtext Holdings
+11. **Technical Troubleshooting**: Provide systematic IT support across all Gtext subsidiaries
+12. **Company Operations**: Deep knowledge of Gtext policies, processes, and procedures across all locations
 
 ## 🚀 **Next Steps**
 
@@ -124,5 +134,7 @@ For even sharper AI responses, consider adding:
 - **Business Cases**: Detailed Gtext success stories and lessons learned
 - **Problem-Solving Examples**: Step-by-step walkthroughs of complex problems you've solved
 - **FAQ Responses**: Common questions you get and your typical answers
+- **Subsidiary Profiles**: Detailed profiles for each Gtext Holdings subsidiary
+- **Standard Operating Procedures**: Step-by-step guides for common Gtext processes
 
 Your knowledge base is concise but powerful - quality over quantity! 🎯
