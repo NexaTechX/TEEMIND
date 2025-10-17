@@ -23,7 +23,7 @@
     "d3-mindmap": "^1.0.0",
     "dotenv": "^16.3.1",
     "lucide-react": "^0.294.0",
-    "mammoth": "^1.10.0",
+    "mammoth": "^1.11.0",
     "mindmap.js": "^0.0.3",
     "next": "14.0.4",
     "openai": "^4.20.1",
